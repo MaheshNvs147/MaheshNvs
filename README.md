@@ -1,4 +1,4 @@
-# Hi there I'm Mahesh Nukala
+# Hi there 👋🏻 I'm Mahesh Nukala
 
 ## Welcome to my GitHub Profile
 
@@ -7,5 +7,6 @@
 To disussing any questions or opportunities feel free to reach me using my https://www.linkedin.com/in/mahesh-n-v-s-1a30b116a
 
 
-(https://github-readme-stats.vercel.app/api?username=MaheshNvs147)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MaheshNvs)](https://github.com/MaheshNvs/github-readme-stats)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MaheshNvs &theme=radical)
