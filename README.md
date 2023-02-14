@@ -7,6 +7,6 @@
 To disussing any questions or opportunities feel free to reach me using my https://www.linkedin.com/in/mahesh-n-v-s-1a30b116a
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MaheshNvs)](https://github.com/MaheshNvs/github-readme-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MaheshNvs) (https://github.com/MaheshNvs/github-readme-stats)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MaheshNvs &theme=radical)
+
