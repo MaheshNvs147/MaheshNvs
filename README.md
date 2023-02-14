@@ -7,8 +7,8 @@
 To disussing any questions or opportunities feel free to reach me using my https://www.linkedin.com/in/mahesh-n-v-s-1a30b116a
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MaheshNvs)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MaheshNvs147)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaheshNvs&layout=compact)](https://github.com/MaheshNvs/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaheshNvs147&layout=compact)](https://github.com/MaheshNvs147/github-readme-stats)
 
 
