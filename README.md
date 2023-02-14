@@ -12,3 +12,4 @@ To disussing any questions or opportunities feel free to reach me using my https
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaheshNvs147&layout=compact)](https://github.com/MaheshNvs147/github-readme-stats)
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaheshNvs147&langs_count=8)](https://github.com/MaheshNvs147/github-readme-stats)
